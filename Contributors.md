@@ -28,7 +28,6 @@ Yash Rustogi
 - [Vishal Kanwar](https://github.com/Kanvi1)
 - Aniket Sonawane @Devsoc
 - Shamit Khetan @DevSoc
-- Ronit Kunkolienker @DevSoc PI
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
@@ -67,6 +66,7 @@ Yash Rustogi
 - [Mohamed Abidar](https://github.com/abidarm)
 - [Amir](https://github.com/amir-repository)
 - [Chandan kumar Chaudhary](https://github.com/chands)
+- [Krishi Dedhia](https://github.com/kdrcks)
 - [Xiyue Zhang](https://github.com/xiyueuyix)
 - [Mikan](https://github.com/mika-alpha)
 - [Mahabub Arafat](https://github.com/MahabubArafat)
